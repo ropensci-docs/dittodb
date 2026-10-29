@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "30a5ba1bd47dbd559e95e6bef1ee7f6336994fca",
+    "author": "GitHub Actions <actions@github.com>",
+    "time": "2026-10-29T00:43:04Z",
+    "files": 1,
+    "merge": false,
+    "message": "Re-build codemeta.json\n"
+  },
+  "repo": "https://github.com/ropensci/dittodb",
+  "pkg": "dittodb",
+  "time": "2026-10-29T10:18:45Z"
+}
