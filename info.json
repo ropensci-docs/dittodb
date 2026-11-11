@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "cf5d31d7bcc7302b5c0e3fec9a1839a1ebf5c02a",
+    "author": "Jonathan Keane <jkeane@gmail.com>",
+    "time": "2026-11-11T04:17:42Z",
+    "files": 0,
+    "merge": false,
+    "message": "nudge\n"
+  },
+  "repo": "https://github.com/ropensci/dittodb",
+  "pkg": "dittodb",
+  "time": "2026-11-11T04:38:08Z"
+}
